@@ -1,2 +1,3 @@
-# Grade-9-Malachi-Ver1
-Our Website grade 9 Malachi
+# Grade-9-Malachi Community Ltd 
+The first Website developed by Aljur Pogoy
+
